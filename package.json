@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-exercise-koya-tech",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mvJzdJkr) # NodeJS - Express.js CRUD Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
